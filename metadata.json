@@ -1,0 +1,6 @@
+{
+  "name": "Deepfake Detection System & Multimodal Forensics",
+  "description": "AI-powered forensic analysis platform for deepfake detection across images, video, audio, facial tracking, temporal consistency, and metadata.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
